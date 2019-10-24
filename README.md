@@ -1,1 +1,1 @@
-The instructions for how to play the game are listed on the web page!
+The instructions for how to play the game are listed when you play the game!
