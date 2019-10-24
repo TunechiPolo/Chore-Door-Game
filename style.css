@@ -1,0 +1,64 @@
+body {
+    background-color: #010165;
+    margin: 0px;
+}
+
+.header {
+    background-color: #00ffff;
+    text-align: center; /* centers the header image banner */
+}
+
+.title-row {
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+}
+
+.instructions-title {
+    display: inline; /* DISPLAY: INLINE; will put the star images inline with each other, rather than on two separate lines. */
+    font-size: 18px;
+    color: #00ffff;
+    font-family: "Work Sans", sans-serif;
+}
+
+.instructions-row {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.instructions-number { /* Changes the instructions numbers to be more legible and uniform with the page */
+    padding-right: 25px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 36px;
+    color: #00ffff;
+}
+
+.instructions-text { /* Changes the instructions text to be more legible and uniform with the page */
+    padding: 10px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.door-row {
+    text-align: center; /* center's the row of 3 doors */
+}
+
+.door-frame {
+    cursor: pointer; /* Changes the mouse cursor to a pointer finger, when hovering over a door. It helps indicate to a user the closed door image can be clicked. */
+    padding: 10px;
+}
+
+.start-row {
+    margin: auto;
+    width: 120px;
+    height: 43px;
+    font-family: "Work Sans", sans-serif;
+    background-color: #eb6536;
+    padding-top: 18px;
+    font-size: 18px;
+    text-align: center;
+    color: #010165;
+    margin-bottom: 21px;
+    cursor: pointer;
+}
